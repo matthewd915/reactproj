@@ -28,6 +28,12 @@ function App() {
 
   </div>
 
+  <div className = 'a'>
+    <h1>
+      Computer Science Quiz
+    </h1>
+  </div>
+
   <div className = 'names'>
     <h1>Muslim, Matthew, Tony, Kevin</h1>
   </div>
